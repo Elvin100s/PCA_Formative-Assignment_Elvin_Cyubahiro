@@ -8,7 +8,6 @@
 
 This project implements Principal Component Analysis (PCA) entirely from scratch using NumPy, Pandas, and Matplotlib. The analysis is performed on Kenya Malaria Indicators data from the World Health Organization (WHO).
 
-**Course**: Advanced Linear Algebra  
 **Assignment**: Formative 2 - Principal Component Analysis  
 **Student**: Elvin Cyubahiro  
 **Date**: February 2026  
