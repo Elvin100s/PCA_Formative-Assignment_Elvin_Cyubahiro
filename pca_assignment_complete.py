@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1yW2D6wyVaeaF0d-_33Xvz3fINhLrsZXf
 
 # Principal Component Analysis (PCA) Implementation from Scratch
-## Tanzania Malaria Indicators — WHO Data
+## Kenya Malaria Indicators — WHO Data
 
 **Student Name:** Elvin Cyubahiro  
 **Assignment:** Formative 2 - Principal Component Analysis  
