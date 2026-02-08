@@ -412,14 +412,7 @@ jupyter notebook PCA_Assignment_Complete.ipynb
 
 ---
 
-## 💡 Why This Implementation Stands Out
 
-1. **Verification at Every Step**: The code verifies mathematical correctness by comparing manual calculations with NumPy implementations
-2. **Smart Imputation**: Uses statistical skewness to decide between mean and median imputation
-3. **Professional Benchmarking**: Runs 10 iterations and calculates stable averages
-4. **Educational Value**: Includes mathematical formulas and clear explanations
-5. **Self-Documenting**: Code includes checks that print whether operations succeeded
-6. **Robust**: Handles edge cases like complex eigenvalues
 
 ---
 
